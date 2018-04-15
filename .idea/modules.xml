@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Ducat.iml" filepath="$PROJECT_DIR$/Ducat.iml" />
+      <module fileurl="file://$PROJECT_DIR$/KotlinPractice.iml" filepath="$PROJECT_DIR$/KotlinPractice.iml" />
     </modules>
   </component>
 </project>
